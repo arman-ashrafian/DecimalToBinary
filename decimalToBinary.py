@@ -1,3 +1,5 @@
+# Arman Ashrafian
+# 4-5-2017
 # show powers of 2 that add up to a decimal number
 import math
 
